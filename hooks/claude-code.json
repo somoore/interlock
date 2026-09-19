@@ -1,0 +1,9 @@
+{
+  "PreToolUse": [{
+    "matcher": "*",
+    "hooks": [{
+      "type": "command",
+      "command": "interlock gate --claude-code"
+    }]
+  }]
+}
